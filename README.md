@@ -78,16 +78,17 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate_auto.png)
-[<img src="/certificate2.png" width="280px" hspace="10px" alt="Сертификат Kvadra»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate2.png)
-[<img src="/certificate3.png" width="280px" hspace="10px" alt="Сертификат 4fresh»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate3.png)
-[<img src="/stepic_ru.png" width="280px" hspace="10px" alt="Сертификат от степика»">](https://raw.githubusercontent.com/German-D/German-D/main/stepic_ru.png)
+[<img src="/internship_qa.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/VikiAndreeva-qa/VikiAndreeva-qa/refs/heads/main/internship_qa.png)
+[<img src="/certificate_1.png" width="280px" hspace="10px" alt="Сертификат от степика 1»">](https://raw.githubusercontent.com/VikiAndreeva-qa/VikiAndreeva-qa/refs/heads/main/certificate_1.png)
+[<img src="/certificate_2.png" width="280px" hspace="10px" alt="Сертификат от степика 2»">](https://raw.githubusercontent.com/VikiAndreeva-qa/VikiAndreeva-qa/refs/heads/main/certificate_2.png)
+[<img src="/certificate_3.png" width="280px" hspace="10px" alt="Сертификат от степика 3»">](https://raw.githubusercontent.com/VikiAndreeva-qa/VikiAndreeva-qa/refs/heads/main/certificate_3.png)
+[<img src="/certificate_4.png" width="280px" hspace="10px" alt="Сертификат от степика 4»">](https://raw.githubusercontent.com/VikiAndreeva-qa/VikiAndreeva-qa/refs/heads/main/certificate_4.png)
 
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/main/diploma_en2.png)
-[<img src="/Letter10.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter10.png)
+[<img src="/certificate.png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/VikiAndreeva-qa/VikiAndreeva-qa/refs/heads/main/certificate.png)
+[<img src="/recommendation_qa.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/VikiAndreeva-qa/VikiAndreeva-qa/refs/heads/main/recommendation_qa.png)
 
 <br>
 <br>
